@@ -1,0 +1,561 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+    height: 540px;
+    width: 1380px;
+    background-image: url(../assets/Hero-bg.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px
+}
+#hero .Firstpage{
+margin:0;
+width: 890px;
+height: 650px;
+left: 219px;
+right: 223px;
+top: 110px;
+bottom: 3440px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+gap: 30px;
+}
+
+#hero .Firstpage .sec{
+    width: 200.28px;
+    height: 200px;
+    left: 258.67%;
+    right: -258.67%;
+    top: 0%;
+    bottom: 0%;
+}
+.grp{
+    height : 150px
+}
+#hero .Firstpage .sec1{
+top: 200px;
+width: 890px;
+height: 100px;
+}
+
+#hero .Firstpage .sec1 .dev{ 
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 40px;
+font-weight: 50px;
+line-height: 55px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 10px;
+}
+#hero .Firstpage .sec2{
+width: 852px;
+height: 52px;
+}
+
+#hero .Firstpage .sec2 .roll{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+    margin-bottom:25px;
+}
+
+#hero .sec3{
+    text-align: center;
+}
+.butt1{
+padding: 21px 24px 21px 24px;
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+border-radius: 8px;
+background: rgb(13, 19, 33);
+text-align: center;
+}
+#hero1{
+    margin:60px 70px;
+}
+#hero1 .start{
+    width: 1240px;
+    height: 48px;
+    margin: 47px;
+    text-align: center;
+}
+#hero1 .start .rol2  .stu1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+    margin-top: 100px;
+
+}
+
+#hero1 .secondpage{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#hero1 .secondpage .sec1{
+    width: 850px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 32px 0px;
+    border-radius: 16px;
+
+
+
+}
+#hero1 .secondpage .sec2{
+    width: 900px;
+     height: 240px;
+     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+
+
+
+}
+.butt2{
+    width: 150px;
+    height: 48px;
+    padding: 12px 20px 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+
+}
+.rol3{
+    width: 477px;
+    height: 140px; 
+    margin: 32px 0px;
+    align-self: stretch;
+}
+.stu5{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+     font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+     text-align: left;
+     color: rgba(26, 82, 213, 0.7);
+}
+#hero2{
+    text-align: center
+}
+
+#hero2 .start{
+    width: 852px;
+    height: 113px;
+    margin: 48px 0px;
+    gap:30px
+
+}
+.dev1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+     letter-spacing: 0%;
+     text-align: center;
+}
+p1{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+padding: 24px;
+
+}
+#hero2 .video{
+    margin: 48px 0px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    width: 1200px; 
+    height: 614px;
+    padding: 32px;
+    display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: center;
+padding: 32px;
+}
+#hero3{
+    text-align: center;
+    width: 1140px;
+    height: 460px;
+}
+
+#hero3 .Start{
+    width: 1140px;
+    height: 113px;
+    margin: 48px;
+    text-align: center;
+    gap:30px
+}
+
+#hero3 .fourthpage{
+    width: 1140px;
+    height: 299px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    margin: 48px 0px;
+}
+.card_container{
+ margin: 50px;
+ display: flex;
+ justify-content: space-between;
+
+}
+.card{
+    max-width: 364px;
+    max-height: 300px;
+    border-radius: 16px;
+    background-color:rgba(255, 76, 30, 0.05);
+    padding: 20px;
+}
+.card .imgbox{
+    width: 56px;
+    height: 56px;
+
+}
+.card .imgbox .img{
+    width: 100%;
+    height: 100%;
+}
+
+.card .shop{
+    margin-top: 20px;
+    width: 284px;
+    height: 139px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    gap:24px;
+}
+
+.card .shop .h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.card .shop .p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.card .shop .a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+.card1{
+    max-width: 364px;
+    max-height: 300px;
+    border-radius: 16px;
+    background-color:rgba(0, 76, 232, 0.05);
+    padding: 20px;
+}
+.card1 .imgbox{
+    width: 56px;
+    height: 56px;
+
+}
+.card1 .imgbox .img{
+    width: 100%;
+    height: 100%;
+}
+
+.card1 .shop{
+    margin-top: 20px;
+    width: 284px;
+    height: 139px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    gap:24px;
+}
+
+.card1 .shop .h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.card1 .shop .p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+   text-align: left;
+}
+
+.card1 .shop .a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+.card2{
+    max-width: 364px;
+    max-height: 300px;
+    border-radius: 16px;
+    background-color:rgba(255, 223, 0, 0.05);
+    padding: 20px;
+}
+
+.card2 .imgbox{
+    width: 56px;
+    height: 56px;
+
+}
+.card2 .imgbox .img{
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+.card2 .shop{
+    margin-top: 20px;
+    width: 284px;
+    height: 139px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+    gap:24px;
+}
+
+.card2 .shop .h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.card2 .shop .p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+   text-align: left;
+}
+
+.card2 .shop .a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+#hero3 .Start .myblog{
+    width: 852px;
+    height: 52px;
+    margin-top: 10px;
+}
+#hero3 .Start .myblog p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+
+}
+.lastpage{
+    width: 1140px;
+    height: 313px;
+    bottom: 180px;
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px;
+    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+    display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: flex-start;
+   padding: 64px 48px 64px 48px;
+   margin: 10px 30px;
+}
+.lastpage.box{
+    width: 925px;
+   height: 185px;
+   padding: 0px;
+   margin: 32px 0px;
+   text-align: center;
+}
+
+.lastpage .box .title{
+    width: 730px;
+    height: 104px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: 24px 0px;
+}
+
+.lastpage .box .title .titlecontainer{
+    width: 292px;
+    height: 36px;
+   padding: 0px;
+   margin: 16px 0px;
+   text-align: center;
+
+}
+
+.lastpage .box .title .titlecontainer h1{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;}
+.p5{
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}        
+form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+        }
+
+.feedback-input {
+    width: 548px;
+    height: 57px;
+    color: black;
+    padding: 10px;
+    flex: 1;
+    box-sizing: border-box;
+   border: 1px solid rgba(13, 19, 33, 0.15);
+   border-radius: 8px;
+   background: rgb(255, 255, 255);
+        }
+.submit-button {
+           
+           
+    width: 120px;
+    height: 57px;
+            color: rgb(13, 19, 33);
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 8px;
+            background: rgb(255, 255, 255);
+            color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+        }
+.last{
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 150px 32px 150px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+}
+.p7{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+.imglast{
+    max-width: 37.01px;
+    max-height: 36px;
+}
